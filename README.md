@@ -1,2 +1,4 @@
 # QUANTiCA
-QUANTiCA Algorithmic Trading Platform
+Algorithmic Trading Platform
+
+#### Ufficial Repository
