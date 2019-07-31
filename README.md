@@ -7,6 +7,8 @@ QUANTiCA Algorithmic Trading Platform empowers the trader to focus on trading sy
 
 QUANTiCA is a __MIT licesed__ project, feel free to contact me at any time as suggested below:
 
+![Screenshot](https://raw.githubusercontent.com/asfolcini/QUANTiCA/screenshot.png)
+
 #### Contacts
 Web    : http://getquantica.com<br>
 eMail  : Alberto Sfolcini <a.sfolcini@gmail.com><br>
