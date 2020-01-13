@@ -1,0 +1,1 @@
+java -Dlog4j.configuration=../config/log4j.properties -cp .:../libs/*:../repo/* quantica.Quantica 
