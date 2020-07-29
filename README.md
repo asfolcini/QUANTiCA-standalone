@@ -5,7 +5,15 @@ This is the __official repository__ of QUANTiCA project where you can find stabl
 #### In Brief
 QUANTiCA Algorithmic Trading Platform empowers the trader to focus on trading system development, testing and final execution without losing valuable time learning the underneath software technology. The QUANTiCA consists of a robust yet simple software platform and IT infrastructure, empowering users to trade like a pro.
 
-![Screenshot](https://raw.githubusercontent.com/asfolcini/QUANTiCA/master/docs/screenshot.png)
+#### Documentation
+Full online documentation is availabe at  https://getquantica.com/docs.php
+
+#### DOWNLOAD
+
+[Build 2.0ms3 AMD64 Linux & Windows](https://github.com/asfolcini/QUANTiCA-standalone/)
+
+
+![Screenshot](https://getquantica.com/assets/img/quantica_dashboard.png)
 
 #### Examples
 <dd>
@@ -107,7 +115,6 @@ QUANTiCA is a __MIT licesed__ project, feel free to contact me at any time as su
 Web    : http://getquantica.com<br>
 eMail  : Alberto Sfolcini <a.sfolcini@gmail.com><br>
 Github : http://github.com/asfolcini/QUANTiCA/<br>
-Skype  : alberto.sfolcini<br>
 
 
 
